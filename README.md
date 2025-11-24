@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/Karlcamarodev/tiktok-dashboard?style=flat-square)](https://github.com/Karlcamarodev/tiktok-dashboard/stargazers)
 
-![TikTok Dashboard Preview](./img/preview.png)
+> 🎨 **Live Demo Available** - See the dashboard in action at the link above
 
 ## ✨ Features
 
@@ -94,16 +94,13 @@ npx http-server
 ## 🎨 Screenshots
 
 ### Dashboard Overview
-![Main Dashboard](./img/dashboard.png)
-*Clean, modern interface with real-time metrics*
+> Clean, modern interface with real-time TikTok analytics metrics
 
-### Analytics Charts
-![Interactive Charts](./img/charts.png)
-*Chart.js powered visualizations*
+### Analytics Charts  
+> Interactive Chart.js visualizations showing weekly trends and content distribution
 
 ### Mobile View
-![Responsive Design](./img/mobile.png)
-*Fully responsive on all devices*
+> Fully responsive design optimized for all devices
 
 ## 🔧 Customization
 
